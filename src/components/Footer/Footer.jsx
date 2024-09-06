@@ -55,7 +55,7 @@ const Footer = () => {
 
               <div className=" w-full h-auto py-8 flex items-center justify-start gap-4 flex-wrap">
                 <a
-                  href="#"
+                  href="/#"
                   className="w-10 h-10 flex items-center justify-center group rounded-lg bg-white group transition-all duration-300"
                 >
                   <svg
@@ -106,7 +106,7 @@ const Footer = () => {
                 </a>
 
                 <a
-                  href="#"
+                  href="/#"
                   className="w-10 h-10 flex items-center justify-center rounded-lg bg-white group transition-all duration-300"
                 >
                   <svg

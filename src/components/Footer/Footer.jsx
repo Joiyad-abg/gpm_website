@@ -55,7 +55,7 @@ const Footer = () => {
 
               <div className=" w-full h-auto py-8 flex items-center justify-start gap-4 flex-wrap">
                 <a
-                  href="https://www.instagram.com/sujangarh_pet_care.rj44?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+                  href="#"
                   className="w-10 h-10 flex items-center justify-center group rounded-lg bg-white group transition-all duration-300"
                 >
                   <svg
@@ -106,7 +106,7 @@ const Footer = () => {
                 </a>
 
                 <a
-                  href="https://www.youtube.com/@Doctorforanimal"
+                  href="#"
                   className="w-10 h-10 flex items-center justify-center rounded-lg bg-white group transition-all duration-300"
                 >
                   <svg

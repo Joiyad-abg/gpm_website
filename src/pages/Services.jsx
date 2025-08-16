@@ -5,7 +5,7 @@ import ServiceCard from '../components/ServiceCard/ServiceCard';
 import Heading from '../components/Heading/Heading';
 
 const Services = () => {
-    TabChange("Sujangarh Pet Care | Services");
+    TabChange("Graduate Packers and Movers | Services");
   return (
     <div className='py-20'>
         <Heading title='Services we offer' />

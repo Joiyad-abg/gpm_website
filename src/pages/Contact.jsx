@@ -5,7 +5,7 @@ import emailjs from "emailjs-com";
 import callLogo from "../assets/logo/phone.svg";
 
 const Contact = () => {
-  TabChange("Sujangarh Pet Care | Contact us");
+  TabChange("Graduate Packers and Movers | Contact us");
   const sendEmail = (e) => {
     e.preventDefault();
 

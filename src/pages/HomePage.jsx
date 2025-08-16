@@ -9,7 +9,7 @@ import Heading from "../components/Heading/Heading.jsx";
 import { chooseData } from "../data/chooseQualities/chooseData.js";
 
 const HomePage = () => {
-  TabChange("Sujangarh Pet Care");
+  TabChange("Graduate Packers and Movers");
   return (
     <Fragment>
       <Title />

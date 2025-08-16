@@ -3,7 +3,7 @@ import { TabChange } from "../utils/dynamic-title-function.js";
 import Heading from "../components/Heading/Heading.jsx";
 
 const About = () => {
-  TabChange("Sujangarh Pet Care | About us");
+  TabChange("Graduate Packers and Movers | About us");
   return (
     <div className="py-40 px-4 md:px-24">
       <Heading title="Graduate Packers and Movers: Your Reliable Moving Partner" />
